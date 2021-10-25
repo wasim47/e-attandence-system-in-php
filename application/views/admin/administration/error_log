@@ -1,0 +1,4 @@
+[15-Apr-2017 13:19:01 CST6CDT] PHP Fatal error:  Call to a member function num_rows() on null in /home/copotronic/public_html/ims/application/views/admin/administration/admin_registration.php on line 2
+[15-Apr-2017 13:19:03 CST6CDT] PHP Fatal error:  Call to a member function num_rows() on null in /home/copotronic/public_html/ims/application/views/admin/administration/admin_registration.php on line 2
+[15-Apr-2017 13:19:14 CST6CDT] PHP Fatal error:  Call to undefined function base_url() in /home/copotronic/public_html/ims/application/views/admin/administration/admin_list.php on line 8
+[15-Apr-2017 13:19:18 CST6CDT] PHP Fatal error:  Call to undefined function base_url() in /home/copotronic/public_html/ims/application/views/admin/administration/admin_list.php on line 8
